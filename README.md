@@ -20,8 +20,8 @@ Facilidade em aprendizado, trabalho em equipe, desenvolvimento de novas funçõe
 
 <div align="center" >
 <a href="https://github.com/thiagoyonekura">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagoyonekura&show_icons=true&hide_border=true&title_color=4169e1&icon_color=00ccff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoyonekura&layout=compact&langs_count=7&hide_border=true&title_color=4169e1&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoyonekura&show_icons=true&hide_border=true&title_color=4169e1&icon_color=00ccff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoyonekura&layout=compact&langs_count=7&hide_border=true&title_color=4169e1&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagoyonekura&bg_color=0d1117&color=ffffff&line=4169e1&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
