@@ -25,7 +25,7 @@ Facilidade em aprendizado, trabalho em equipe, desenvolvimento de novas funçõe
 </div>
 
 <div>     
-<h2 align='center'><i><a href="https://github.com/thiagoyonekura/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i><a href="https://github.com/thiagoyonekura">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/thiagoyonekura/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoyonekura&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
