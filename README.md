@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000099&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thiago+Yonekura!;Bem+vindo(a)+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
           
 <br><div>
-<p>Atualmente trabalho como Analista de Suporte ao Usuário N1 na Atos e estou cursando Análise e Desenvolvimento de Sistemas. Tenho entre meus objetivos atuar e evoluir profissionalmente na área da tecnologia da informação.
+<p>Atualmente trabalho como Programador I na Atos e estou cursando Análise e Desenvolvimento de Sistemas. Tenho entre meus objetivos atuar e evoluir profissionalmente na área da tecnologia da informação.
 </p>
 <p>
-No momento estou estudando Algoritmos, Desenvolvimento de Sistemas com PHP, Banco de Dados, Engenharia de Software e Análise, Projeto de Sistemas, Desenvolvimento de Software, Desenvolvimento WEB, Tópicos Especiais de Sistemas, JavaScript, Python e Java.
+No momento estou estudando Algoritmos, Desenvolvimento de Sistemas com PHP, Banco de Dados, Engenharia de Software e Análise, Projeto de Sistemas, Desenvolvimento de Software, Desenvolvimento WEB, Tópicos Especiais de Sistemas, JavaScript, Python, Java, C# e React Native.
 </p>
 <div align="center">
 <p>
