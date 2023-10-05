@@ -3,18 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000099&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thiago+Yonekura!;Bem+vindo(a)+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
           
 <br><div>
-<p>Imerso no universo empolgante da tecnologia da informação, atualmente desempenho o papel de Programador I na Atos, enquanto persigo minha formação em Análise e Desenvolvimento de Sistemas.</p>
-<p>Esta jornada representa não apenas uma carreira, mas uma paixão que impulsiona meu constante aprimoramento neste campo em constante evolução.</p>
+<p>Atualmente, estou imerso no empolgante universo da Tecnologia da Informação, desempenhando o papel de Programador I na Atos.</p>
+<p>Esta jornada não representa apenas uma carreira, mas uma paixão que impulsiona meu contínuo aprimoramento em um campo em constante evolução.</p>
 <p>
-No momento estou estudando Algoritmos, Desenvolvimento de Sistemas com PHP, Banco de Dados, Engenharia de Software e Análise, Projeto de Sistemas, Desenvolvimento de Software, Desenvolvimento WEB, Tópicos Especiais de Sistemas, JavaScript, Python, Java, C# e React Native.
+Estou focado na minha formação em Análise e Desenvolvimento de Sistemas, aprofundando-me em áreas cruciais como Algoritmos, Desenvolvimento de Sistemas com PHP, Banco de Dados, Engenharia de Software, Análise e Projeto de Sistemas, Desenvolvimento de Software, Desenvolvimento WEB, Tópicos Especiais de Sistemas, além de ter experiência com linguagens como JavaScript, Python, Java, C# e React Native.
 </p>
 <div align="center">
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
 </div>
 <p>
-Facilidade em aprendizado, trabalho em equipe, desenvolvimento de novas funções, comprometimento, interesse, curiosidade, respeito e proatividade. Conhecimento no pacote Office, instalação de programas/drivers, manutenção de computadores e Inglês.
+Minhas habilidades incluem facilidade no aprendizado, trabalho colaborativo, desenvolvimento de novas funcionalidades, comprometimento, interesse genuíno, curiosidade, respeito e proatividade. Além disso, possuo conhecimentos em pacote Office, instalação de programas/drivers e manutenção de computadores e Inglês.
 </p>
 </div>
 
