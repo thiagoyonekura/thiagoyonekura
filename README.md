@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000099&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Thiago+Yonekura!;Welcome+to+my+GitHub+profile!+:%29)](https://git.io/typing-svg)
 
 ## About Me
-<p>Currently, I'm immersed in the exciting universe of Information Technology, working as a Programmer I at Atos.</p>
+<p>Currently, I'm immersed in the exciting universe of Information Technology, working as a Application Developer at Atos.</p>
 
 ### 🚀 Main Technologies and Skills
 <ul>
